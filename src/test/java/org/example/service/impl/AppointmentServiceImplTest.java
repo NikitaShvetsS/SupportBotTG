@@ -208,8 +208,7 @@ class wAppointmentServiceImplTest {
         verify(appointmentMapper, times(1)).toDto(app1);
         verify(appointmentMapper, times(1)).toDto(app2);
     }
-
-    //TODO исправить ошибки в тесте
+    
     @Test
     void getAllAppointments() {
 
