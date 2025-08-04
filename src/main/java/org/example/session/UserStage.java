@@ -1,0 +1,7 @@
+package org.example.session;
+
+public enum UserStage {
+
+    SELECT_START, ENTER_FIRSTNAME, ENTER_LASTNAME, ENTER_DATEOFBIRTH, ENTER_GENDER, ENTER_PHONE, ENTER_EMAIL, NONE
+
+}

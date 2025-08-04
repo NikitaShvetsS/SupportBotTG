@@ -1,0 +1,6 @@
+2025-08-04 13:36:04,220 WARN  [main] org.hibernate.orm.deprecation - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-08-04 13:36:04,951 WARN  [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-04 13:49:12,226 WARN  [main] org.hibernate.orm.deprecation - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-08-04 13:49:12,938 WARN  [main] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-04 13:50:44,183 WARN  [NSConnect24Bot Telegram Executor] o.e.bot.handlers.RegistrationHandler - Invalid date format from chatId 5855140465: 09.05.1945
+2025-08-04 13:50:56,364 WARN  [NSConnect24Bot Telegram Executor] o.e.bot.handlers.RegistrationHandler - Invalid date format from chatId 5855140465: 1945.05.09
